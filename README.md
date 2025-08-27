@@ -53,5 +53,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For questions, feedback, or bug reports, feel free to contact me at vishruth555\@gmail.com.
+For questions, feedback, or bug reports, feel free to contact me at tejasdandgi\@gmail.com.
 
